@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import logo from '../logo.png';
-import './App.css';
+import React, { Component } from "react";
+import logo from "../logo.png";
+import "./App.css";
 
 class App extends Component {
   render() {
@@ -37,7 +37,10 @@ class App extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  LEARN BLOCKCHAIN <u><b>NOW! </b></u>
+                  LEARN BLOCKCHAIN{" "}
+                  <u>
+                    <b>NOW! </b>
+                  </u>
                 </a>
               </div>
             </main>
